@@ -1,4 +1,4 @@
-# DocHub - Markdown CMS with Drawing Capabilities
+# DocHub - Markdown CMS 
 
 ![DocHub Screenshot](./docs/dochub_light.jpeg)
 
