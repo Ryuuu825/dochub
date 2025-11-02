@@ -1,6 +1,12 @@
 # DocHub - Markdown CMS 
 
-![DocHub Screenshot](./docs/dochub_light.jpeg)
+<!-- ![DocHub Screenshot](./docs/dochub_light.jpeg) -->
+<!-- ![DocHub Screenshot](./docs/dochub_dark.jpeg) (30%) -->
+
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <img src="./docs/dochub_light.jpeg" alt="DocHub Light Mode Screenshot" style="width: 70%; max-width: 500px; object-fit: contain;" />
+  <img src="./docs/dochub_dark.jpeg" alt="DocHub Dark Mode Screenshot" style="width: 25%; max-width: 500px; object-fit: contain;" />
+</div>
 
 Built on top of **[EZAPI](https://github.com/Minicode-HK/ezapi-go)** - a zero-setup REST API framework for Go.
 
