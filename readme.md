@@ -14,7 +14,7 @@ Built on top of **[EZAPI](https://github.com/Minicode-HK/ezapi-go)** - a zero-se
 
 ## What is DocHub?
 
-**DocHub** is a minimalist markdown CMS that solves a real problem: *You ask AI to summarize, generate, or process your notes. Now how can I access them everywhere without setting webserver, [quick-note-host](https://github.com/Ryuuu825/quick-notes-host), cdn, or sth like that EVERYTIME like a crazy person?*
+**DocHub** is a minimalist markdown CMS that solves a real problem: *You ask AI to summarize, generate, or process your lecture notes. Now, how can I view / edit / upload them everywhere without setting webserver, [quick-note-host](https://github.com/Ryuuu825/quick-notes-host), cdn, or sth like that EVERYTIME?*
 
 *DocHub* are here to save your day.
 
